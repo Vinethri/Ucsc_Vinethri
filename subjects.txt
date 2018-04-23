@@ -1,0 +1,7 @@
+maths 
+english
+science
+history
+sinhala
+buddhism
+literature
